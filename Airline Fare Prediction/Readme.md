@@ -8,9 +8,7 @@
 5. [Evaluation](#evaluation)
 6. [Results](#results)
 7. [Conclusion](#conclusion)
-8. [Usage](#usage)
 9. [Dependencies](#dependencies)
-10. [License](#license)
 
 ## Introduction
 This project aims to predict airfare prices using machine learning techniques. Airfare prediction can help travelers make informed decisions and save money by booking flights at optimal times.
