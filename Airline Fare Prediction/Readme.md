@@ -1,4 +1,4 @@
-# Airfare Prediction Project
+# Airline Fare Prediction Project
 
 ## Table of Contents
 1. [Introduction](#introduction)
