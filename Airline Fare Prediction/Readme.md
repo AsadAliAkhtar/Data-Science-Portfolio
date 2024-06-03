@@ -18,11 +18,11 @@ The dataset used in this project includes various features such as:
 - Departure and arrival locations
 - Flight duration
 - Airline
-- Time of booking
+- Flight day
 - Date and time of departure and arrival
 - Number of stops
 
-The dataset was sourced from [provide source if available] and contains [mention number of records and features].
+The dataset was sourced from [Kaggle] and contains 10682 records and 13 features after data wrangling and feature engineering including the target variale "Price".
 
 ## Data Preprocessing
 The data preprocessing steps include:
