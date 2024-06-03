@@ -22,17 +22,17 @@ The dataset used in this project includes various features such as:
 - Date and time of departure and arrival
 - Number of stops
 
-The dataset was sourced from [Kaggle] and contains 10682 records and 13 features after data wrangling and feature engineering including the target variale "Price".
+The dataset was sourced from "Kaggle" and contains 10682 records and 13 features after data wrangling and feature engineering including the target variale "Price".
 
 ## Data Preprocessing
 The data preprocessing steps include:
 - Handling missing values
 - Encoding categorical variables
 - Feature scaling
-- Feature engineering (e.g., extracting day of the week, month, etc. from date features)
+- Feature engineering (e.g., extracting days, and month, etc. from date features)
 
 ## Modeling
-Several machine learning models were implemented and compared:
+Machine learning models was implemented:
 - Linear Regression
 
 ## Evaluation
@@ -40,11 +40,13 @@ The model was evaluated using metrics:
 - Mean Squared Error (MSE)
 
 ## Results
-The best-performing model was [mention the best model] with an MAE of [mention MAE] and an R² of [mention R²].
+The model performed well as it beats the baseline MSE which was 3655, with the test data, model's MSE was 1972.
 
 ## Conclusion
-This project demonstrates the application of machine learning techniques to predict airfare prices. The results show that [mention key findings, such as the most important features or insights gained from the model].
-
+This project demonstrates the application of machine learning techniques to predict airfare prices. The results show that the Linear Regression was able to plot the best-fit line and the top three most important feature in this dataset was:
+- Total Stops
+- Duration Hour
+- Travel Day
 
 ## Dependencies
 The project requires the following dependencies:
