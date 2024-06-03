@@ -32,21 +32,12 @@ The data preprocessing steps include:
 - Feature engineering (e.g., extracting day of the week, month, etc. from date features)
 
 ## Modeling
-Several machine learning models were implemented and compared, including:
+Several machine learning models were implemented and compared:
 - Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
-- Gradient Boosting Regressor
-
-Hyperparameter tuning was performed using GridSearchCV to find the best parameters for each model.
 
 ## Evaluation
-The models were evaluated using metrics such as:
-- Mean Absolute Error (MAE)
+The model was evaluated using metrics:
 - Mean Squared Error (MSE)
-- R-squared (R²)
-
-The performance of each model was compared based on these metrics.
 
 ## Results
 The best-performing model was [mention the best model] with an MAE of [mention MAE] and an R² of [mention R²].
