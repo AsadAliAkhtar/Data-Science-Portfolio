@@ -43,7 +43,7 @@ The model was evaluated using metrics:
 The model performed well as it beats the baseline MAE which was 3655, with the test data, Validation MAE was 1177.
 
 ## Conclusion
-This project demonstrates the application of machine learning techniques to predict airfare prices. The results show that the Linear Regression was able to plot the best-fit line and the top three most important feature in this dataset was:
+This project demonstrates the application of machine learning techniques to predict airfare prices. The top three most important feature for Prediction in this dataset was:
 - Total Stops
 - Duration Hour
 - Travel Day
