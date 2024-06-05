@@ -33,14 +33,14 @@ The data preprocessing steps include:
 
 ## Modeling
 Machine learning models was implemented:
-- Linear Regression
+- Random Forest Regressor
 
 ## Evaluation
 The model was evaluated using metrics:
-- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
 
 ## Results
-The model performed well as it beats the baseline MSE which was 3655, with the test data, model's MSE was 1972.
+The model performed well as it beats the baseline MAE which was 3655, with the test data, Validation MAE was 1177.
 
 ## Conclusion
 This project demonstrates the application of machine learning techniques to predict airfare prices. The results show that the Linear Regression was able to plot the best-fit line and the top three most important feature in this dataset was:
@@ -52,6 +52,5 @@ This project demonstrates the application of machine learning techniques to pred
 The project requires the following dependencies:
 - Python 3.x
 - Pandas
-- NumPy
 - Scikit-learn
 - Jupyter Notebook
