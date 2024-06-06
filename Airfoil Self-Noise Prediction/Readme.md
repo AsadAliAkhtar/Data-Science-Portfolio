@@ -11,7 +11,9 @@
 8. [Dependencies](#dependencies)
 
 ## Introduction
-This project aims to predict scaled sound pressure levels of an airfoil using machine learning techniques. Predicting noise levels is crucial in designing quieter aircraft and assessing environmental impact.
+This project aims to predict scaled sound pressure levels of NACA 0012 airfoils at various wind tunnel speeds and angles of attack, using machine learning techniques. The NASA dataset comprises different size NACA 0012 airfoils at various wind tunnel speeds and angles of attack. The span of the airfoil and the observer position were the same in all of the experiments. The dataset was obtained from a series of aerodynamic and acoustic tests of two and three-dimensional airfoil blade sections conducted in an anechoic wind tunnel.
+
+Predicting noise levels is crucial in designing quieter aircraft and assessing environmental impact. By leveraging this dataset, our goal is to develop a predictive model that can accurately estimate scaled sound pressure levels, aiding in the design and evaluation of airfoil configurations for reduced noise emissions.
 
 ## Dataset
 The dataset used in this project includes features such as:
@@ -51,4 +53,3 @@ The project requires the following dependencies:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
