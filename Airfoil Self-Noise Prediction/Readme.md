@@ -39,7 +39,9 @@ In consideration of the non-linear relationship between features and the target,
 We evaluated our model using Mean Absolute Error (MAE) on a validation set. The model outperformed the baseline, indicating its effectiveness in noise prediction.
 
 ## Results
-The important features for noise prediction identified by our model include [mention important features]. The model has been saved for future use.
+The important features for noise prediction identified by our model include: ![Capture](https://github.com/AsadAliAkhtar/Data-Science-Portfolio/assets/170518936/974c2509-7cbb-43ac-9e9e-ad8ab71e383a)
+
+The *model* has been saved for future use.
 
 ## Conclusion
 This project demonstrates the application of machine learning in predicting airfoil noise levels. The results highlight the importance of feature engineering and model selection in achieving accurate predictions.
