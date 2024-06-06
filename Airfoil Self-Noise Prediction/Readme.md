@@ -1,5 +1,7 @@
 # Airfoil Noise Prediction Project
 
+![ross-parmly-rf6ywHVkrlY-unsplash](https://github.com/AsadAliAkhtar/Data-Science-Portfolio/assets/170518936/fa8a9ede-21ae-4e90-a7e4-dae1c522ddfa)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
