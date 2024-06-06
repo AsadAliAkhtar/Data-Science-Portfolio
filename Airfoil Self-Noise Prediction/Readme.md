@@ -24,7 +24,7 @@ The dataset used in this project includes features such as:
 - Suction side displacement thickness
 - Scaled sound pressure (target variable)
 
-The dataset was sourced from [provide source if available] and contains [mention number of records and features].
+The dataset was sourced from UCI Machine Learning Repository and contains *1503* records and  *6* features.
 
 ## Data Preprocessing
 The data preprocessing steps include:
